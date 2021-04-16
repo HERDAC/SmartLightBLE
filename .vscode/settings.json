@@ -1,0 +1,11 @@
+{
+    "vscode-node-red.url": "http://remoras:1880/",
+    "vscode-node-red.settings.js": {
+        
+        "editorTheme": {
+            "projects": {
+                "enabled": true
+            }
+        }
+    }
+}
