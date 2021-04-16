@@ -1,3 +1,7 @@
+/*******************************
+ * Ce code est créé par HERDAC *
+ ******************************/
+
 //Ajout des bibliothèques
 #include <Arduino.h>
 #include <vector>
